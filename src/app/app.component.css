@@ -1,0 +1,6 @@
+::ng-deep mat-card {
+      width: 300px;
+      margin:0 auto;
+      text-align: center;
+      margin-top: 50px;
+  }
